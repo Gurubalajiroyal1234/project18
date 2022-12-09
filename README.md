@@ -5,7 +5,7 @@ This is a web based application developed for health related telugu based websit
 ### This web based restaurant application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
-**Project Link** - http://teluguhealth.southindia.cloudapp.azure.com/
+**Project Link** -https://gurubalajiroyal1234.github.io/project18/
 
 
 ## Features and Functionalities 😃
@@ -17,27 +17,23 @@ This is a web based application developed for health related telugu based websit
 - User can know about health information through this website.
 - Included the feedback Survey form to increase the scope of improvement 
 
-## Screenshots
-
- 📸![Screenshot 2022-03-07 090754](https://user-images.githubusercontent.com/98517345/156963750-f5d694b6-a371-4b41-817f-22c8291b37da.jpg)
-
-
-
-   
+## home page-
+<img width="960" alt="Screenshot 2022-12-09 114910" src="https://user-images.githubusercontent.com/117887559/206638559-d45a6d4d-c884-4980-928f-1abbc6b06b80.png">
 
 ### About Us -
+<img width="960" alt="Screenshot 2022-12-09 114955" src="https://user-images.githubusercontent.com/117887559/206638710-69abc533-5360-4ade-a96f-cb9fbf7e8601.png">
 
+## services-
+<img width="960" alt="Screenshot 2022-12-09 115037" src="https://user-images.githubusercontent.com/117887559/206638829-bb384463-bb01-4002-a87f-5e0e66fd5b63.png">
 
+## price-
+<img width="960" alt="Screenshot 2022-12-09 115136" src="https://user-images.githubusercontent.com/117887559/206639040-f79c01cc-b775-416b-89f8-27510ca3e1fd.png">
 
-![Screenshot 2022-03-07 090859](https://user-images.githubusercontent.com/98517345/156963803-135e9564-ca95-458e-9074-0d7aa2f7d586.jpg)
+## special sevices-
+<img width="960" alt="Screenshot 2022-12-09 115233" src="https://user-images.githubusercontent.com/117887559/206639246-eb6d9157-2b39-4667-805e-711da9cefa24.png">
 
-
-### Privacy policy -
-
-
-![Screenshot 2022-03-07 090943](https://user-images.githubusercontent.com/98517345/156963849-e8ead038-b9ea-4320-9165-9f99cf00d9d2.jpg)
-
-
+## contactus-
+<img width="960" alt="Screenshot 2022-12-09 115358" src="https://user-images.githubusercontent.com/117887559/206639579-f44c9dd6-9e6f-4d37-b4ff-73f564f264d9.png">
 
 ## Tech Stack 💻
 
@@ -45,4 +41,5 @@ This is a web based application developed for health related telugu based websit
 - HTML
 - CSS
 - Bootstrap
-- JavaScript
+- JavaScript!
+
