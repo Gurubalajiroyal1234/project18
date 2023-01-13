@@ -5,7 +5,7 @@ This is a web based application developed for hairspa related telugu based websi
 ### This web based haispa application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
-**Project Link** -https://gurubalajiroyal1234.github.io/project18/
+**Project Link** -https://polite-plant-0fdcab700.2.azurestaticapps.net/
 **Demo link**-https://youtu.be/r-m6kj6BS1A
 
 ## Features and Functionalities 😃
